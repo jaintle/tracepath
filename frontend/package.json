@@ -1,0 +1,16 @@
+{
+    "name": "tracepath-frontend",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview"
+    },
+    "dependencies": {
+        "mapbox-gl": "^3.12.0",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0"
+    },
+    "devDependencies": {
+        "vite": "^5.0.0"
+    }
+}
